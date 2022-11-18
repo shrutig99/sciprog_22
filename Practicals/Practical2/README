@@ -1,0 +1,13 @@
+This directory is for the codes of the practicals conducted in week 2.
+In the file labelled 'Conversion.c':
+> We represent an integer in its binary form by converting it and count the number of digits using the ceil and log f function belonging to the maths libra>
+> To run this file, we run the following commands in terminal:
+        > gcc Conversion.c -o Conversion.out -lm (to compile the Conversion.c file, '-lm' maps math library used in the program to the gnu c compiler)
+        > ./Conversion.out (to display the output after compilation)
+
+In the file labelled 'Sum.c':
+> We found the difference of sums calculated in two different looping conditions, one where it is incremented and the other where it is decremented.
+> We also observe that the difference between the sums calculated is almost negligible.
+> To run this file, we run the following commands in terminal:
+        > gcc Sum.c -o Sum.out -lm (to compile the Sum.c file, '-lm' maps math library used in the program to the gnu c compiler)
+        > ./Sum.out (to display the output after compilation)
