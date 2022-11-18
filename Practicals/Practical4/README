@@ -1,0 +1,7 @@
+This directory is for the codes of the practicals conducted in week 4.
+In the file labelled 'tan_area.c':
+> We first convert the values of tan(x) from radians to degrees.
+> We then calculate the area under the curve of tan(x) using the Trapezoidal Rule.
+> To run this file, we run the following commands in terminal:
+        > gcc tan_area.c -o tan_area.out -lm (to compile the tan_area.c file, '-lm' maps math library used in the program to the gn>        
+	> ./tan_area.out (to display the output after compilation)
