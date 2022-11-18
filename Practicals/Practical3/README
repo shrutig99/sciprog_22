@@ -1,0 +1,8 @@
+This directory is for the codes of the practicals conducted in week 3.
+In the file labelled 'area_under_curve.c':
+> We calculate the area under a curve f(x) using the Trapezoidal rule.
+> The integral is replaced with a sum and area is calculated, later it is also calculated using the integral.
+> We notice that the area calculated by sum and integral is equivalent.
+> To run this file, we run the following commands in terminal:
+        > gcc area_under_curve.c -o area_under_curve.out -lm (to compile the area_under_curve.c file, '-lm' maps math library used in the program to the gnu c compiler)
+        > ./area_under_curve.out (to display the output after compilation)
