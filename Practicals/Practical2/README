@@ -1,0 +1,3 @@
+This directory is for the codes of the practicals conducted in week 2.
+In the C program labelled 'Conversion.c', we represented an integer in its binary form by converting it.
+In the C program labelled 'Sum.c', we found the difference of sums calculated in two different looping conditions, one where it is incremented and the other where it is decremented.
