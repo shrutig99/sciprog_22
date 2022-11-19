@@ -1,0 +1,12 @@
+This directory is for the codes of the practicals conducted in week 5.
+In the file labelled 'fibonacci.c':
+> We display the Fibonacci series upto number 'n', which is taken as an input from the user.
+> To run this file, we run the following commands in terminal:
+        > gcc fibonacci.c -o fibonacci.out -lm (to compile the fibonnaci.c file)
+        > ./fibonacci.out (to display the output after compilation)
+
+In the file labelled 'hyparctan.c':
+> We calculate the Inverse Hyperbolic Tangent function using two methods, Maclaurin Series and natural logarithms.
+> To run this file, we run the following commands in terminal:
+        > gcc hyparctan.c -o hyparctan.out -lm (to compile the hyparctan.c file, '-lm' maps math library used in the program to the gn>
+        > ./hyparctan.out (to display the output after compilation)
