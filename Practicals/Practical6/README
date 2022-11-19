@@ -1,0 +1,11 @@
+This directory is for the codes of the practicals conducted in week 6.
+In the file labelled 'main.c':
+> We initialize three matrices, and multiply them using the 'mat_mul.c'
+> To run this file, we run the following commands in terminal:
+        > gcc main.c -o main.out -lm (to compile the main.c file)
+        > ./main.out (to display the output after compilation)
+
+In the file labelled 'mat_mul.c':
+> We multiply two matrices and store them in a third matrix.
+
+> To run makefile, we use the command: make -f makefile
