@@ -1,0 +1,13 @@
+This directory is for the codes of the practicals conducted in week 7.
+In the file labelled 'dynamic_allocation.c':
+> We use dynamically allocated arrays which are taken as an input from the user and all the cells of the array are filled with value one using a function.
+> To run this file, we run the following commands in terminal:
+        > gcc dynamic_allocation.c -o dynamic_allocation.out -lm (to compile the dynamic_allocation.c file)
+        > ./dynamic_allocation.out (to display the output after compilation)
+
+In the file labelled 'taylor.c':
+> We estimate the value of 'e' using Tarlor Series, the order is a user input.
+> We also find the difference between the true value of 'e' and the one calculated using Taylor Series.
+> To run this file, we run the following commands in terminal:
+        > gcc taylor.c -o taylor.out -lm (to compile the taylor.c file, '-lm' maps math library used in the program to the gn>
+        > ./taylor.out (to display the output after compilation)
