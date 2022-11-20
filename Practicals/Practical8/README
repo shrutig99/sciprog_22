@@ -1,0 +1,8 @@
+This directory is for the codes of the practicals conducted in week 8.
+In the file labelled 'gcd.c':
+> We write a function to compute the Greatest Common Divisor (GCD) of a pair of positive integers passed as
+arguments to the function.
+> The GCD is calculated using iterative and recursive functions.
+> To run this file, we run the following commands in terminal:
+        > gcc gcd.c -o gcd.out -lm (to compile the gcd.c file)
+        > ./gcd.out (to display the output after compilation)
