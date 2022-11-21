@@ -1,0 +1,6 @@
+This directory is for the codes of the practicals conducted in week 9.
+In the file labelled 'main.c':
+> We include the header file labelled 'magic_square.h' and call isMagicSquare function to find whether the matrix in 'Square.txt' file is magic square or not.
+> To run this file, we run the following commands in terminal:
+        > gcc main.c -o main.out (to compile the main.c file)
+        > ./main.out (to display the output after compilation)
