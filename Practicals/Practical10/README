@@ -1,0 +1,6 @@
+This directory is for the codes of the practicals conducted in week 10.
+In the file labelled 'hanoi.c':
+> We solve the Tower of Hanoi puzzle using recursive function.
+> To run this file, we run the following commands in terminal:
+        > gcc hanoi.c -o hanoi.out -lm (to compile the hanoi.c file)
+        > ./hanoi.out (to display the output after compilation)
